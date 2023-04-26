@@ -124,7 +124,6 @@ extra:
       link: https://github.com/ZAKARIAABOUZHAR
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/zakaria-abou-zhar-3624a3256/
-    - icon: fontawesome/brands/facebook
      
 extra_css:
   - stylesheets/extra.css

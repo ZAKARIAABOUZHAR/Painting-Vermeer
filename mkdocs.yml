@@ -2,9 +2,6 @@
 site_name: Algorithmes Génétiques, Painting Vermeer
 site_author: ABOU-ZHAR Zakaria
 edit_uri: https://github.com/ZAKARIAABOUZHAR/Painting-Vermeer/tree/main/docs
-site_description: >-
-  Pour acquérir un sens de la pratique, et s’ouvrir à l’environnement professionnel, nous sommes amenés à rédiger une note de synthèse de notre traitement du Heetch dataset incluant la démarche, les principaux résultats et les conclusions.
-  Dans ce cadre-là, vient ce rapport auquel nous allons synthétiser le travail fait.
 
 
 # Repository
@@ -12,7 +9,7 @@ repo_name: ZAKARIAABOUZHAR/Painting-Vermeer
 repo_url: https://github.com/ZAKARIAABOUZHAR/Painting-Vermeer
 
 # Copyright
-copyright: Copyright &copy; 2022 - 2023 ZAKARIAABOUZHAR
+copyright: Copyright &copy; 2022 - 2023 ABOU-ZHAR Zakaria
 
 # Configuration
 theme:
